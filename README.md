@@ -1,2 +1,2 @@
 # Shopping-Cart
-Shopping cart applicationusing React-Redux concepts
+Shopping cart application using React-Redux concepts
